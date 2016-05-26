@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Droppy-0.5.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/android_chat/build/intermediates/exploded-aar/com.shehabic.droppy/Droppy/0.5.1/res" />
+      <root url="jar://$PROJECT_DIR$/android_chat/build/intermediates/exploded-aar/com.shehabic.droppy/Droppy/0.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shehabic.droppy/Droppy/0.5.1/7eb47f7f18e26533563c8b8b29f613743a168c2d/Droppy-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
