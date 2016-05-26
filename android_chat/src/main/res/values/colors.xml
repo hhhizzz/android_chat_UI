@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ecf0f1</color>
+    <color name="colorPrimaryDark">#bdc3c7</color>
+    <color name="colorAccent">#1abc9c</color>
+    <color name="Textcolor">#2c3e50</color>
+    <color name="Bubble_Left">#5e34b1</color>
+    <color name="Bubble_Right">#00acc0</color>
+</resources>

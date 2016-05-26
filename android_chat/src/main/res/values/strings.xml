@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_chat</string>
+    <string name="please_typ">Say something...</string>
+    <string name="send">send</string>
+    <string name="empty_message">message couldn\'t be empty</string>
+    <string name="delete_successful">delete successful</string>
+</resources>
