@@ -1,5 +1,5 @@
 ##android_chat UI
-A light android chat UI, something like Allo
+A light android chatting UI, something like Allo
 
 ![](https://git.oschina.net/xunix/android_chat/raw/master/sample.png?dir=0&filepath=sample.png&oid=103f2d770fc30679408d56c99ac6ef1a836cfbc0&sha=beb1481109fa6fb3fec39a6f0e5191cffb844991)
 
