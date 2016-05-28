@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.xunix.android_chat.ChatActivity"
-    android:background="@color/colorPrimary"
+    android:background="@color/chat_colorPrimary"
     android:id="@+id/chat_main_activity">
     <ListView
         android:id="@+id/lvMessages"
@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:scrollbarSize="10dp"
         android:overScrollMode="always"
-        android:background="@color/colorPrimary"
+        android:background="@color/chat_colorPrimary"
         />
     <LinearLayout
         android:id="@+id/layout"
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:orientation="horizontal"
-        android:background="@color/colorPrimary">
+        android:background="@color/chat_colorPrimary">
     <include layout="@layout/chat_tool_box" />
 
     </LinearLayout>

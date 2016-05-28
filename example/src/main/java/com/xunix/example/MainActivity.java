@@ -13,8 +13,8 @@ public class MainActivity extends ChatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setTitle("Pikie Pie");
-        sendMessage(new Bean("hello,my name is Pikie Pie",yourMessage));
+        setTitle("Pinkie Pie");
+        sendMessage(new Bean("hello,my name is Pinkie Pie",yourMessage));
         sendMessage(new Bean("hello,my name is Apple Jack",myMessage));
     }
 }
